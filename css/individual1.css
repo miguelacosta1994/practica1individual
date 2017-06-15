@@ -43,7 +43,7 @@
 	background-color: black;
 	width: 450px;
 	height: 80px;
-	margin-left: 30%;
+	margin: 0 auto;
 	opacity: 0.85;
 }
 
@@ -67,7 +67,7 @@
 	text-align: center;
 }
 
-#contenido2 {
+#contenido2, #footer {
 	background-color: #EBA400;
 	
 }
@@ -84,7 +84,7 @@
 }
 
 .imagencap {
-	width: 250px;
+	width: 260px;
 	height: 250px;
 	border: solid 10px white;
 }
@@ -93,15 +93,13 @@
 	color: white;
 }
 
-/* Seccion contenido 3 */
-
 .textoGris {
 	color: #1C1C1C;
 	padding-top: 45px;
 	font-weight: bold;
 }
 
-#contenido4 {
+#contenido4, #contenido6 {
 	background-color: #1C1C1C;
 }
 
@@ -118,3 +116,5 @@
 .textoAmarillo {
 	color: #EBA400;
 }
+
+
