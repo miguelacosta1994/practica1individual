@@ -1,0 +1,39 @@
+body {
+	font-family: Comic Sans MS;
+}
+.encabezadotablapersonal {
+	font-size: 24px
+	
+}
+h1 {
+	padding: 2px;
+	text-align: center;
+
+}
+
+table.datospersonales {
+	background-color: navy;
+	color: white;
+}
+
+table {
+	align:center;
+}
+
+table tr td img {
+	width: 25%;
+	margin: 0 auto;
+	display: block;
+
+
+}
+
+.infopersonal {
+	color: yellow;
+	width: 7%;
+}
+
+.infopersonal2 {
+	width: 50%;
+}
+

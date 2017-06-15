@@ -1,0 +1,47 @@
+body {
+	color: blue;
+}
+
+h1 {
+	padding: 20px;
+	color: green;
+	border: 2px solid; color:green;
+	
+	border-width: 5px;
+	
+}
+
+h1>span {
+	color: blue;
+}
+
+h1 span {
+	color: gray;
+}
+span {
+	color: yellow;
+}
+
+/*
+
+.texto-rojo {
+	color: red;
+}
+
+h1,h2,h3 {
+	font-size: 15px;
+}
+
+h4, h5, h6 {
+	color: pink;
+}
+*/
+
+/*SELECTOR UNIVERSAL
+* {
+	border: 0;
+	padding: 0;
+	margin: 0;
+}
+*/
+

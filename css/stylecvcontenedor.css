@@ -1,0 +1,93 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: gray;
+}
+
+.cv {
+	margin: 0 auto;
+	width: 75%;
+
+}
+
+
+
+.contenedor1, .contenedor2, .contenedor3, .contenedor4 {
+
+	background-color: orange;
+	color: white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	width: 100%;
+	margin-bottom: 20px;
+
+}
+
+.contenedor2 {
+	background-color: yellow;
+}
+.contenedor3 {
+	background-color: blue;
+}
+.contenedor4 {
+	background-color: red;
+}
+
+.nombre {
+	float: left;
+	background-color: green;
+	text-align: center;
+	margin-top: 10px;
+	text-align: center;
+	width: 75%;
+	font-family: Comic Sans MS;
+
+}
+
+.foto {
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	
+
+	
+}
+
+.estudios {
+	color: black;
+}
+.estudios h2 {
+	padding-left: 20px;
+}
+
+.experiencia {
+	color: black;
+}
+.experiencia h2 {
+	padding-left: 20px;
+}
+
+.cursos {
+	color: black;
+}
+.cursos h2 {
+	padding-left: 20px;
+}
+
+.proyectos {
+	color: black;
+}
+.proyectos h2 {
+	padding-left: 20px;
+}
+
+.direccion {
+	text-align: center;
+	font-size: 24px;
+	font-family: Arial;
+}
+
+.marquesina {
+	padding-left: 20px;
+	padding-right: 20px;
+}

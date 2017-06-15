@@ -1,0 +1,22 @@
+/*Documento CSS*/
+
+body {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+#caja1 {
+
+	position: relative;
+	top: 120px;
+	float: right;
+	width: 300px;
+	height: 300px;
+	margin: 0;
+	background: #ccc;
+	border: 1px solid #000;
+	padding: 10px;
+
+
+}
